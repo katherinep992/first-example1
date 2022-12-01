@@ -1,5 +1,3 @@
 GitHub is an online hosting platform for version control.
 
 I am going to add my paragraph here to fix issue
-
-Here I have added a plot
